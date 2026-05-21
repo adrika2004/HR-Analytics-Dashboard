@@ -135,5 +135,3 @@ HR-Analytics-Dashboard/
 ├── Tableau Dashboard/
 ├── Dashboard Screenshots/
 └── README.m
-- LinkedIn: www.linkedin.com/in/your-linkedin
-- GitHub: https://github.com/your-github
