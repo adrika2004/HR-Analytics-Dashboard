@@ -109,6 +109,18 @@ CREATE TABLE hrdata (
 
 ---
 
+## 📈 Power BI Dashboard
+
+![Power BI Dashboard](power_bi_dashboard.png)
+
+## 📊 Tableau Dashboard
+
+![Tableau Dashboard](tableau_dashboard.png)
+
+## 📑 Excel Dashboard
+
+![Excel Dashboard](excel_dashboard.png)
+
 # 💡 Project Highlights
 
 ✔ Developed dashboards using both **Power BI** and **Tableau**
