@@ -111,11 +111,11 @@ CREATE TABLE hrdata (
 
 ## 📈 Power BI Dashboard
 
-![Power BI Dashboard](Power Bi Dashboard.png)
+![Power BI Dashboard](Power_Bi_Dashboard.png)
 
 ## 📊 Tableau Dashboard
 
-![Tableau Dashboard](Tableau Dashboard.png)
+![Tableau Dashboard](Tableau_Dashboard.png)
 
 ## 📑 Excel Dashboard
 
