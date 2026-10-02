@@ -119,7 +119,7 @@ CREATE TABLE hrdata (
 
 ## 📑 Excel Dashboard
 
-![Excel Dashboard](Excel_Dashboard(2).png)
+![Excel Dashboard](Excel_Dashboard.png)
 
 # 💡 Project Highlights
 
